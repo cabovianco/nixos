@@ -23,6 +23,7 @@
     spotify
     nautilus
     loupe
+    libresprite
   ];
 }
 
