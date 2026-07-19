@@ -24,6 +24,7 @@
     nautilus
     loupe
     libresprite
+    prismlauncher
   ];
 }
 
