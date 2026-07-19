@@ -12,6 +12,7 @@
       ./modules/user.nix
       ./modules/niri.nix
       ./modules/packages.nix
+      ./modules/programs.nix
       ./modules/services.nix
       ./modules/gtk.nix
       ./modules/font.nix
