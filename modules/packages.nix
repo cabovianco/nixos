@@ -26,6 +26,7 @@
     libresprite
     godot
     prismlauncher
+    xwayland-satellite
   ];
 }
 
